@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.collagedemo.views.CheckableFrameLayout
+             xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:background="@drawable/checkable_bg">
+    <com.github.collagedemo.views.SquareImageView
+        android:id="@+id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerInside"
+        tools:background="#f00"
+        />
+    <TextView
+        android:id="@+id/image_text"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:padding="4dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:background="@drawable/gradient_text_bg"
+        style="?android:textAppearanceSmallInverse"
+        tools:text="My Image"
+        />
+</com.github.collagedemo.views.CheckableFrameLayout>

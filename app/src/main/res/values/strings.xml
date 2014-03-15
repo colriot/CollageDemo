@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CollageDemo</string>
+
+    <string name="error_format">Error happened: \"%s\".\n<b>Tap to retry</b></string>
+    <string name="network_error">Network error</string>
+    <string name="unknown_error">Unexpected error</string>
+    <string name="wrong_selection">You should select from two to six images</string>
+    <string name="error_making_collage">Error happened when making collage</string>
+    <string name="saving">Saving…</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_make_collage">Make collage!</string>
+    <string name="btn_get_collage">Get collage!</string>
+    <string name="input_username">Input Instagram username:</string>
+
+</resources>

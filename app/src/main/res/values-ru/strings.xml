@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="error_format">Произошла ошибка: \"%s\".\n<b>Нажмите для повтора</b></string>
+    <string name="network_error">Сетевая ошибка</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="wrong_selection">Выберите от двух до шести изображений</string>
+    <string name="error_making_collage">Ошибка при создании коллажа</string>
+    <string name="saving">Сохранение…</string>
+    <string name="btn_share">Поделиться</string>
+    <string name="btn_make_collage">Собрать коллаж</string>
+    <string name="btn_get_collage">Давай коллаж</string>
+    <string name="input_username">Введите логин пользователя Instagram:</string>
+
+</resources>
